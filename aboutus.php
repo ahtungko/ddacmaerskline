@@ -26,7 +26,7 @@
   
   <div class="row justify-content-md-center ">
     <div class="w-75 p-3 bg-info text-white">
-    <h2>About Maersk Line</h2>     </div>
+    <h2>--About Maersk Line--</h2>     </div>
     <div class="row justify-content-md-center ">
     <div class="bg-info">
     <img src="images/about.jpg">     </div>     
