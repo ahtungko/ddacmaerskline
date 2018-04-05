@@ -1,13 +1,13 @@
 <?php
-//$servername = "kitmaerskline-maerskline.mysql.database.azure.com";
-//$username = "username@kitmaerskline-maerskline";
-//$password = "tung1234!";
-//$dbName = "dbmaerskline";
-
-$servername = "localhost";
-$username = "username";
-$password = "password";
+$servername = "kitmaerskline-maerskline.mysql.database.azure.com";
+$username = "username@kitmaerskline-maerskline";
+$password = "tung1234!";
 $dbName = "dbmaerskline";
+
+//$servername = "localhost";
+//$username = "username";
+//$password = "password";
+//$dbName = "dbmaerskline";
 
 //$servername = "127.0.0.1:50271";
 //$username = "azure";
