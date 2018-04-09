@@ -14,7 +14,7 @@
             background-image: url("images/background.jpg");       
         }
      </style>
-       <script src="insight.js"></script>
+       <script src="js/insight.js"></script>
     
   </head>
   <body>

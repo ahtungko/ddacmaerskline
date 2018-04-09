@@ -15,7 +15,7 @@
         }
      </style> -->
      <link rel="icon" href="images/favicon.ico">
-       <script src="insight.js"></script>
+       <script src="js/insight.js"></script>
      
   </head>
 <body>

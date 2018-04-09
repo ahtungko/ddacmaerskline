@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <title>MaerskLine - Agent Registration</title>
      <link rel="icon" href="images/favicon.ico">
-       <script src="insight.js"></script>
+       <script src="js/insight.js"></script>
     
   </head>
 <body>

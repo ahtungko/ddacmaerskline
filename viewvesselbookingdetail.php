@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <title>MaerskLine - Confirmed Booking</title>
      <link rel="icon" href="images/favicon.ico">
-       <script src="insight.js"></script>
+       <script src="js/insight.js"></script>
   </head>
 <body>
   <!-- Navigation -->

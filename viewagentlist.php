@@ -14,7 +14,7 @@
             background-repeat: no-repeat;     
         }
      </style>-->
-       <script src="insight.js"></script>
+       <script src="js/insight.js"></script>
      
      <link rel="icon" href="images/favicon.ico">
      
