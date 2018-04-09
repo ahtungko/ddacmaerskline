@@ -42,7 +42,7 @@
       {
         ?>
         
-             <h1>Schedule List</h1>
+             <h1>Agent List</h1>
             
               <table class="table table-hover">
                 <thead>
