@@ -29,7 +29,7 @@
 	  $departuredate = mysqli_real_escape_string($conn, trim($_POST['txtdepartureDate']));
 	  $arrivaldate = mysqli_real_escape_string($conn, trim($_POST['txtArrivalDate']));
 
-	  if($departuredate > $arrivaldate)
+	  if($departuredate >= $arrivaldate)
 	  {
 	   	echo "<script>alert('The Arrival Date and Time cannot be Earlier than Departure Date And Time'); window.history.back();</script>";
 
