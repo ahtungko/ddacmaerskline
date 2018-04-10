@@ -71,7 +71,7 @@
 
 
     <form class="form-signin" method="POST">
-      <img class="mb-4" src="images/logo.jpg" alt="" width="200" height="60">
+      <img class="mb-4" src="images/logo.png" alt="" width="200" height="60">
       <h1 class="h3 mb-3 font-weight-normal">Please Sign In</h1>
       <label for="inputUsername" class="sr-only">Username</label>
       <input type="text" id="txtUsername" name="txtUsername" class="form-control" placeholder="Username" required autofocus>
